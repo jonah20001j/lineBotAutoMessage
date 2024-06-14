@@ -1,0 +1,12 @@
+Flask
+requests
+gunicorn
+click
+Werkzeug
+itsdangerous
+certifi
+cryptography
+paramiko
+python-dotenv
+line-bot-sdk
+apscheduler
